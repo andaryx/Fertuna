@@ -134,3 +134,13 @@ main {
 .button-3d:active .button-base {
   border-radius: 10px 10px 8px 8px / 8px;
 }
+
+.counter {
+  color: white;
+  font-size: 24px;
+  margin: 0 15px;
+  min-width: 30px;
+  text-align: center;
+  font-family: 'Courier New', monospace;
+}
+/* End d-937 */
