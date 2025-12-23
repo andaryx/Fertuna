@@ -25,3 +25,9 @@ minus.addEventListener("click", () => {
 });
 
 
+minus.addEventListener("click", () => {
+  if (count > 0) {
+    count--;
+    counter.textContent = count;
+  }
+});
