@@ -144,3 +144,8 @@ main {
   font-family: 'Courier New', monospace;
 }
 /* End d-937 */
+
+footer {
+    display: flex;
+    align-items: flex-end;
+}
