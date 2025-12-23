@@ -2,13 +2,11 @@ body {
     background: red;
     color: aquamarine;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    min-height: 100vh;
-
     display: flex;
-    flex-direction: column; /* toto je kľúč */
+    justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
-
 
 .strike-0 {
     background: blue;
