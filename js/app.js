@@ -15,3 +15,11 @@ document.querySelectorAll(".button-container").forEach(container => {
     counter.textContent = count;
   });
 });
+
+
+minus.addEventListener("click", () => {
+  if (count > 0) {
+    count--;
+    counter.textContent = count;
+  }
+});
