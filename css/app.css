@@ -147,6 +147,11 @@ main {
 
 /* start c-137 */
 footer {
-
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 2px solid white;
+    text-align: center;
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* End c-137 */
