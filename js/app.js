@@ -31,3 +31,4 @@ minus.addEventListener("click", () => {
     counter.textContent = count;
   }
 });
+
